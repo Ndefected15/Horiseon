@@ -6,7 +6,7 @@
 - Fixed broken links
 - Fixed unlinked elements
 - Added alt descriptions to enahnce accessibility
-- Consolidated uncessarily repeated code
+- Consolidated repeated code
 
 ## Built With
 
@@ -21,4 +21,5 @@
 
 ## Contribution
 
+Made with ❤️️ by Horiseon
 Refractored by Nicholas Defex
