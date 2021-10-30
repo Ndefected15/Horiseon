@@ -17,6 +17,8 @@
 
 - https://ndefected15.github.io/challenge-1-Horiseon/
 
+![alt text](https://github.com/Ndefected15/challenge-1-Horiseon/blob/main/assets/images/screenshot.jpg?raw=true)
+
 ## Contribution
 
 Refractored by Nicholas Defex
