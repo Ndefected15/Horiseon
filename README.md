@@ -21,5 +21,5 @@
 
 ## Contribution
 
-Made with ❤️️ by Horiseon
-Refractored by Nicholas Defex
+- Made with ❤️️ by Horiseon
+- Refractored by Nicholas Defex
