@@ -3,8 +3,8 @@
 ## Purpose
 
 Added semantic HTML (<header>,<nav>)
-fixed <a href="#search-engine-optimization">Search Engine Optimization</a>
-fixed unlinked elements (<div>, <div id="search-engine-optimization" class="search-engine-optimization">)
+fixed broken links
+fixed unlinked elements
 Added alt descriptions to enahnce accessibility
 consolidated uncessarily repeated code
 
@@ -15,8 +15,6 @@ consolidated uncessarily repeated code
 
 ## Website
 
-https://lernantino.github.io/run-buddy/
-
 ## Contribution
 
-Made with ❤️ by [your name]
+Refractored by Nicholas Defex
