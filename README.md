@@ -2,11 +2,11 @@
 
 ## Purpose
 
-Added semantic HTML (<header>,<nav>)
-fixed broken links
-fixed unlinked elements
-Added alt descriptions to enahnce accessibility
-consolidated uncessarily repeated code
+- Added semantic HTML
+- Fixed broken links
+- Fixed unlinked elements
+- Added alt descriptions to enahnce accessibility
+- Consolidated uncessarily repeated code
 
 ## Built With
 
